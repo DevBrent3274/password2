@@ -42,7 +42,7 @@ THEN the password is either displayed in an alert or written to the page
 
 The following image shows the web application's appearance and functionality:
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/screenshot-password2.png)
+![The Password Generator application displays a red button to "Generate Password".](./assets/screenshot-password2.png)
 
 ## Deployed Link
 [Click here for deployed Password Generator](https://devbrent3274.github.io/password2/index.html)
