@@ -45,7 +45,7 @@ The following image shows the web application's appearance and functionality:
 ![The Password Generator application displays a red button to "Generate Password".](./Assets/screenshot-password2.png)
 
 ## Deployed Link
-[Click here for deployed Password Generator](https://devbrent3274.github.io/password2/)
+[Click here for deployed Password Generator](https://devbrent3274.github.io/password2/index.html)
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
